@@ -1,6 +1,6 @@
 # Personal Website that is being managed on GitLab
 
-Check the original repo from [here](https://gitlab.com/FahimFBA/personal-website)
+Check the original repo from [here](https://gitlab.com/FahimFBA/personal-website). I made the repo public afterwards.
 
 Check the live site from [here](https://fahimbinamin.com/)
 
