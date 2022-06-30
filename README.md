@@ -8,4 +8,4 @@ Check the live site from [here](https://fahimbinamin.com/)
 
 ## Check the live site preview!
 
-[![Live site preview](https://img.youtube.com/vi/-XWtIEcVTlI/0.jpg)](https://www.youtube.com/watch?v=XWtIEcVTlI)
+[![Live site preview](https://img.youtube.com/vi/-XWtIEcVTlI/0.jpg)](https://www.youtube.com/watch?v=-XWtIEcVTlI)
