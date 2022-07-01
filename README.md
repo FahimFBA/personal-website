@@ -6,6 +6,6 @@ Check the live site from [here](https://fahimbinamin.com/)
 
 * The video that helped me to create this site, is [right here!](https://www.youtube.com/watch?v=OPaLnMw2i_0)
 
-## Check the live site preview!
+## Check the live site preview! (Click on the image below)
 
 [![Live site preview](https://img.youtube.com/vi/-XWtIEcVTlI/0.jpg)](https://www.youtube.com/watch?v=-XWtIEcVTlI)
